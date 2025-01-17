@@ -5,10 +5,10 @@ Step into the shoes (or rather, the webbed feet) of a clever frog navigating a c
 Built using the Unity game engine with the support of Amazon Q Developer tools and hosted seamlessly on Amazon Amplify, Frog Maze Dash offers a vibrant, fun, and dynamic gameplay experience. Test your reflexes, strategy, and time management in this thrilling race against the clock!
 
 **AWS products and Other Tools used to build the game**
--->AWS Amplify and S3 Bucket To deploy and host my Unity game, leveraging an S3 bucket for static file storage and delivery.
+>AWS Amplify and S3 Bucket To deploy and host my Unity game, leveraging an S3 bucket for static file storage and delivery.
 
--->Unity Game Engine For developing the game
+>Unity Game Engine For developing the game
 
--->C# For developing the backend and implementing game logic to power core functionality.
+>C# For developing the backend and implementing game logic to power core functionality.
 
 
